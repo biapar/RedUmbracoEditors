@@ -1,0 +1,14 @@
+{
+    "gridEditors": [
+        {
+            "name": "Box with Icon",
+            "alias": "boxwithicon",
+            "view": "/app_plugins/MyEditor/myeditor.html",
+            "icon": "icon-code",
+            "config": {
+                "color": "red",
+                "text-align": "center"
+            }
+        }
+    ]
+}
